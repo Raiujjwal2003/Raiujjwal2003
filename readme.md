@@ -1,19 +1,20 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Ujjwal rai 👋
 
-I'm a [Your Role/Title] with a passion for [Your Interests]. Welcome to my GitHub profile! 
+I'm a Full stack developer with a passion for Web development. Welcome to my GitHub profile! 
 
 🔭 I'm currently working on [Current Project/Work].
-🌱 I'm currently learning [What You're Learning].
+🌱 I'm currently learning MERN Stack .
 👯 I'm looking to collaborate on [Type of Collaboration/Projects].
-💬 Ask me about [Topics or Interests You're Knowledgeable About].
-📫 How to reach me: [Your Email Address or Social Media Links].
+💬 Ask me about Jobs, coding, Development, Backend.
+📫 How to reach me: raiujjwal2003@gmail.com .
 
 ## Skills and Technologies
 
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
-- [Skill 4]
+- Java
+- JavaScript
+- Node JS
+- mongoDB
+- MySQL
 
 ## Featured Projects
 
