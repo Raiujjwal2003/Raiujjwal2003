@@ -2,9 +2,9 @@
 
 I'm a Full stack developer with a passion for Web development. Welcome to my GitHub profile! 
 
-🔭 I'm currently working on [Current Project/Work].
+🔭 I'm currently working on "Youtube Backend Clone".
 🌱 I'm currently learning MERN Stack .
-👯 I'm looking to collaborate on [Type of Collaboration/Projects].
+👯 I'm looking to collaborate on "youtube Backend Clone":.
 💬 Ask me about Jobs, coding, Development, Backend.
 📫 How to reach me: raiujjwal2003@gmail.com .
 
@@ -27,7 +27,7 @@ Here are some of my notable projects:
 
 ## GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raiujjwal2003)](https://github.com/Raiujjwal2003/Raiujjwal2003)
 
 ## Connect with Me
 
