@@ -24,6 +24,6 @@ I'm a Full stack developer with a passion for Web development. Welcome to my Git
 
 You can find me on the web or contact me through the following channels:
 
-- [[LinkedIn](https://www.linkedin.com/in/ujjwal-rai-95a7a8208/)](Your LinkedIn Profile)
-- [[Twitter](https://twitter.com/ujjwalrai2003)](Your Twitter Profile)
-- [raiujjwal2003@gmail.com](Your Email Address)
+- [[LinkedIn](https://www.linkedin.com/in/ujjwal-rai-95a7a8208/)]
+- [[Twitter](https://twitter.com/ujjwalrai2003)]
+- [raiujjwal2003@gmail.com]
