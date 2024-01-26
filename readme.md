@@ -16,15 +16,6 @@ I'm a Full stack developer with a passion for Web development. Welcome to my Git
 - mongoDB
 - MySQL
 
-## Featured Projects
-
-Here are some of my notable projects:
-
-- [Project 1 Name](Link to Project 1)
-  - Short description of Project 1.
-- [Project 2 Name](Link to Project 2)
-  - Short description of Project 2.
-
 ## GitHub Stats
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raiujjwal2003)](https://github.com/Raiujjwal2003/Raiujjwal2003)
@@ -33,7 +24,6 @@ Here are some of my notable projects:
 
 You can find me on the web or contact me through the following channels:
 
-- [LinkedIn](Your LinkedIn Profile)
-- [Twitter](Your Twitter Profile)
-- [Email](Your Email Address)
-- [Website](Your Personal Website)
+- [[LinkedIn](https://www.linkedin.com/in/ujjwal-rai-95a7a8208/)](Your LinkedIn Profile)
+- [[Twitter](https://twitter.com/ujjwalrai2003)](Your Twitter Profile)
+- [raiujjwal2003@gmail.com](Your Email Address)
